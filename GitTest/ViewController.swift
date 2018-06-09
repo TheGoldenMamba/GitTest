@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
 
-        for i in 0..101 {
+        for i in 0...101 {
             print(i)
         }
         // Do any additional setup after loading the view, typically from a nib.
